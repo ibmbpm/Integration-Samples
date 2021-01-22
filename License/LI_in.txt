@@ -1,0 +1,26 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Garansi (Z125-5589-05) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Hak penggunaan terbatas
+
+Pemegang Lisensi tidak berhak untuk menggunakan Program untuk memberikan layanan TI komersial kepada pihak ketiga mana pun, untuk memberikan hosting atau pembagian waktu (timesharing) komersial, atau mensublisensikan, menyewakan, menyewagunakan Program kecuali apabila secara tegas diatur dalam perjanjian-perjanjian yang berlaku yang mengatur Pemegang Lisensi dalam memperoleh otorisasi untuk menggunakan Program.
+
+Penggunaan yang Dilarang
+
+Pemegang Lisensi tidak dapat menggunakan atau memberi wewenang kepada pihak lain untuk menggunakan Program apabila kegagalan Program dapat menyebabkan kematian, cedera fisik, atau kerusakan properti atau lingkungan.
+
+Komponen Sumber dan Material Contoh
+
+Program mencakup komponen-komponen dalam bentuk kode sumber ("Komponen Sumber"), atau material lain yang dikenal sebagai Material Contoh atau keduanya. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen Sumber dan Material Contoh untuk penggunaan internal saja dalam batas hak lisensi berdasarkan Perjanjian ini; namun, dengan ketentuan bahwa Pemegang Lisensi tidak boleh mengubah atau menghapus informasi hak cipta atau pemberitahuan apa pun yang terdapat dalam Komponen Sumber atau Material Contoh. IBM memberikan Komponen-komponen Sumber dan Material Contoh tanpa adanya kewajiban dukungan dan "SEBAGAIMANA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

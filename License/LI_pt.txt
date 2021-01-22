@@ -1,0 +1,26 @@
+INFORMAÇÕES DA LICENÇA
+
+Os Programas listados abaixo são licenciados sob os/ao abrigo dos termos e condições da seguinte Informação sobre a Licença a seguir, além dos termos de licença do Programa acordados anteriormente pelo Cliente e pela IBM. Se o Cliente não tiver acordado anteriormente com os termos de licença em vigor para o Programa, o Contrato de Licença Internacional para Programas Não Garantidos (Z125-5589-05) será aplicável.
+
+Nome do Programa (Número do Programa):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Os termos padrão a seguir se aplicam o uso do Programa pelo Licenciado.
+
+Direito de uso/utilização limitado
+
+O Licenciado não está autorizado a usar o Programa para fornecer serviços comerciais de TI a qualquer terceiro, para fornecer hospedagem comercial ou compartilhamento de tempo ou para sublicenciar, alugar ou arrendar o Programa, a menos que expressamente previsto nos acordos aplicáveis sob os quais o Licenciado obtenha autorizações de uso o programa.
+
+Usos Proibidos
+
+O Licenciado não poderá usar/utilizar ou autorizar outros a usar/utilizar o Programa se a falha do Programa puder resultar em morte, lesões corporais ou danos à propriedade ou ao meio ambiente.
+
+Componentes fonte e materiais de amostra
+
+O Programa inclui componentes na forma de código-fonte ("Componentes Fonte") ou outros materiais identificados como Materiais de Amostra ou ambos. O Licenciado pode copiar e modificar os Componentes Fonte e os Materiais de Amostra apenas para uso/utilização interno/interna dentro dos limites dos direitos de licença sob este Contrato/Acordo desde que não possa alterar ou excluir qualquer informação de copyright ou avisos contidos nos Componentes Fonte ou Materiais de Amostra. A IBM fornece os Componentes Fonte e Materiais de Amostra sem obrigação de suporte e "NO ESTADO EM QUE SE ENCONTRAM (""AS IS"")", SEM NENHUM TIPO DE GARANTIA, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO A GARANTIA DE TÍTULO, NÃO VIOLAÇÃO OU NÃO INTERFERÊNCIA E AS GARANTIAS IMPLÍCITAS E CONDIÇÕES DE COMERCIALIZAÇÃO E ADEQUAÇÃO PARA UM PROPÓSITO/FIM ESPECÍFICO.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

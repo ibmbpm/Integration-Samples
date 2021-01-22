@@ -1,0 +1,26 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za programe brez garancije (Z125-5589-05).
+
+Ime programa (Številka programa):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Omejena pravica do uporabe
+
+Imetnik licence nima pooblastila za uporabo programa za zagotavljanje komercialnih storitev informacijske tehnologije za tretje osebe, nudenje komercialnega gostovanja ali dodeljevanja èasa tretjim osebam ali podlicenciranje programa oziroma njegovo dajanje v najem ali zakup, razen èe je to izrecno navedeno v ustreznih pogodbah, na podlagi katerih pridobi imetnik licence pooblastila za uporabo programa.
+
+Prepovedana uporaba
+
+Imetnik licence ne sme uporabljati programa ali za njegovo uporabo pooblastiti drugih uporabnikov, èe lahko napaka programa povzroèi smrt, telesne poškodbe ali škodo na lastnini ali v okolju.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbriše nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ JAMSTEV KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKRŠENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

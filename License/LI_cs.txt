@@ -1,0 +1,26 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (Z125-5589-05).
+
+Název Programu (Èíslo Programu):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
+
+Omezená uživatelská práva
+
+Držitel licence není oprávnìn používat Program k poskytování komerèních služeb IT jakékoli tøetí stranì, k poskytování komerèního hostování nebo sdílení èasu nebo k udìlování sublicencí, pronájmu nebo pronájmu Programu, pokud to není výslovnì stanoveno v pøíslušných smlouvách, na jejichž základì Držitel licence získává oprávnìní k použití Programu.
+
+Zakázané užívání
+
+Držitel licence nesmí používat nebo autorizovat ostatní pro použití Programu, pokud by selhání Programu mohlo zpùsobit smrt, škodu na zdraví nebo škody na majetku èi životním prostøedí.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Držitel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, že toto užívání splòuje limity licenèních práv podle této Smlouvy, avšak pod podmínkou, že Držitel licence nesmí pozmìòovat ani odstraòovat žádné informace o autorských právech nebo právech k duševnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

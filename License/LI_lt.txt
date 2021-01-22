@@ -1,0 +1,26 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal ðias Licencijos informacijos sàlygas, kurios papildo Programos licencijos sàlygas, dël kuriø susitarë Klientas ir IBM. Jei Klientas anksèiau nëra sutikæs su Programai taikomomis licencijos sàlygomis, taikoma Programø kurioms neteikiama garantija tarptautinë licencinë sutartis (Z125-5589-05).
+
+Programos pavadinimas (Programos numeris):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Ðios standartinës sàlygos taikomos Licenciato Programos naudojimui.
+
+Riboto naudojimo teisë
+
+Licenciatas neturi teisës naudoti Programos komercinëms IT paslaugoms teikti jokiai treèiajai ðaliai, taip pat teikti komercinæ iðtekliø nuomà ar laiko paskirstymà, teikti antrinæ Programos licencijà ar jà nuomoti, jei tai nëra aiðkiai nurodyta taikomose sutartyse, pagal kurias Licenciatas ágyja teisæ naudoti Programà.
+
+Draudþiamas naudojimas
+
+Licenciatas negali naudoti ar autorizuoti nauodoti Programà, jei jos gedimas gali sukelti mirtá, kûno suþalojimø, nuosavybës ar aplinkos paþeidimà.
+
+Ðaltinio komponentai ir pavyzdinë medþiaga
+
+Á Programà yra átrauktø komponentø iðeitinio kodo forma („Ðaltinio komponentai“) arba kita medþiaga, apibrëþta kaip Pavyzdinë medþiaga, arba abu ðie elementai. Licenciatas gali kopijuoti ir modifikuoti Ðaltinio komponentus ir Pavyzdinæ medþiagà tik naudoti viduje, nepaþeisdamas ðios Sutarties licencijos teisiø; taèiau Licenciatas negali keisti ar naikinti jokios Ðaltinio komponentuose ir Pavyzdinëje medþiagoje esanèios autoriaus teisiø informacijos ar praneðimø. IBM pateikia Ðaltinio komponentus ir Pavyzdinæ medþiagà be palaikymo ásipareigojimo ir TOKIÀ, KOKIA YRA, NESUTEIKIANT JOKIØ AIÐKIAI NURODYTØ AR NENURODYTØ GARANTIJØ, ÁSKAITANT NUOSAVYBËS TEISËS, NEPAÞEIDÞIAMUMO AR NEÁSIKIÐIMO GARANTIJAS IR NENURODYTAS TINKAMUMO PREKIAUTI IR TAM TIKRAM TIKSLUI GARANTIJAS IR SÀLYGAS.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

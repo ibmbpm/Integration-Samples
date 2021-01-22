@@ -1,0 +1,26 @@
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation des Logiciels non garantis (Z125-5589-05) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Autorisation d'Utilisation Restreinte
+
+Le Détenteur de la Licence n'est pas autorisé à utiliser le Logiciel pour fournir des services informatiques commerciaux à une tierce partie, pour fournir un hébergement ou un partage de temps commercial, ou pour accorder des sous-licences pour le Logiciel ni pour le louer, sauf indication contraire expresse dans les contrats applicables au titre desquels le Détenteur de la Licence a obtenu les Autorisations d'Utilisation du Logiciel.
+
+Utilisations interdites
+
+Le Détenteur de la Licence n'est pas autorisé à utiliser ou à permettre à d'autres personnes d'utiliser le Logiciel si un dysfonctionnement du Logiciel est susceptible d'entraîner la mort, des préjudices corporels ou une dégradation matérielle ou environnementale.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel contient des composants sous forme de code source ("Composants Source") ou d'autres éléments appelés Échantillons et Exemples, voire les deux. Le Détenteur de la Licence est autorisé à copier et à modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

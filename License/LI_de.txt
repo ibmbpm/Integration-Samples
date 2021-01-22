@@ -1,0 +1,26 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programme ohne Gewährleistung (Z125-5589-05).
+
+Programmname (Programmnummer):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Eingeschränktes Nutzungsrecht
+
+Der Lizenznehmer ist nicht berechtigt, das Programm zur Bereitstellung kommerzieller IT-Services für Dritte, zur Bereitstellung kommerzieller Hosting-Services oder für kommerziell betriebenes Time-Sharing einzusetzen oder das Programm zu vermieten, zu verleasen oder Unterlizenzen für das Programm zu vergeben, sofern dies in den maßgeblichen Vereinbarungen, unter denen der Lizenznehmer die Berechtigungen zur Nutzung des Programms erworben hat, nicht ausdrücklich vorgesehen ist.
+
+Untersagte Nutzungen
+
+Der Lizenznehmer darf das Programm nicht nutzen oder Dritten die Berechtigung zur Nutzung des Programms erteilen, wenn ein Versagen des Programms zu Todesfällen, Personenschäden, Sach- oder Umweltschäden führen kann.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

@@ -1,0 +1,26 @@
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para Programas sin Garantía (Z125-5589-05).
+
+Nombre de Programa (Número de Programa):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Derecho de uso limitado
+
+El Licenciatario no está autorizado a utilizar el Programa para prestar servicios de TI comerciales a terceros o para prestar servicios comerciales de alojamiento web u ofrecer el uso del Programa en régimen de multipropiedad, ni a otorgar licencias a terceros, alquilar o arrendar el Programa, salvo que así se estableciera explícitamente en los acuerdos aplicables en virtud de los cuales el Licenciatario obtiene las necesarias autorizaciones para utilizar el Programa.
+
+Usos prohibidos
+
+El Licenciatario no puede utilizar ni autorizar a terceros para utilizar el Programa si un fallo del Programa puede producir la muerte, daños corporales o daños a la propiedad o al medio ambiente.
+
+Componentes en Código Fuente y Materiales de muestra
+
+El Programa incluye algunos componentes en formato de código fuente ("Componentes en Código Fuente") y otros materiales identificados como Materiales de muestra, o ambos. El Licenciatario puede copiar y modificar los Componentes en Código Fuente y los Materiales de muestra únicamente para uso interno, siempre que dicho uso esté dentro de los límites de los derechos de licencia en virtud del presente Acuerdo, y siempre y cuando el Licenciatario no altere ni suprima ninguna información de copyright ni de avisos de los Componentes en Código Fuente ni de los Materiales de muestra. IBM proporciona los Componentes en Código Fuente y los Materiales de muestra sin ningún tipo de obligación de soporte y "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, NI IMPLÍCITA NI EXPLÍCITA, INCLUIDAS LA GARANTÍA DE TÍTULO, LA GARANTÍA DE NO VULNERACIÓN DE DERECHOS DE TERCEROS O DE NO INJERENCIA Y LAS GARANTÍAS Y CONDICIONES IMPLÍCITAS DE COMERCIALIZACIÓN E IDONEIDAD PARA UNA FINALIDAD DETERMINADA.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+

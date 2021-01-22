@@ -1,0 +1,26 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Programy nieobjÍte Gwarancjπ (Z125-5589-05).
+
+Nazwa Programu (Numer Programu):
+IBM Business Automation Workflow on Containers Integration Samples (Sample Code)
+
+Poniøsze standardowe warunki majπ zastosowanie do uøywania Programu przez LicencjobiorcÍ.
+
+Ograniczone prawo do uøywania
+
+Licencjobiorca nie jest upowaøniony do uøywania Programu do úwiadczenia osobom trzecim komercyjnych us≥ug informatycznych, us≥ug serwerowych ani us≥ug podzia≥u czasu, jak rÛwnieø nie jest upowaøniony do udzielania dalszych licencji na Program oraz wypoøyczania i wydzierøawiania Programu, chyba øe stosowne umowy, na mocy ktÛrych Licencjobiorca jest upowaøniony do uøywania Programu, wyraünie stanowiπ inaczej.
+
+Niedozwolone uøywanie
+
+Licencjobiorca nie moøe uøywaÊ ani upowaøniaÊ kogokolwiek do uøywania Programu w przypadku, gdy jego awaria mog≥aby doprowadziÊ do úmierci, uszczerbku na zdrowiu, szkody w mieniu albo szkody w úrodowisku naturalnym.
+
+Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe
+
+Program zawiera komponenty w postaci kodu ürÛd≥owego (zwane dalej "Komponentami èrÛd≥owymi") lub inne materia≥y okreúlone jako Materia≥y Przyk≥adowe, albo oba te elementy. Licencjobiorca moøe kopiowaÊ i modyfikowaÊ Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe jedynie na uøytek wewnÍtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, øe Licencjobiorca nie bÍdzie zmieniaÊ ani usuwaÊ øadnych informacji czy uwag o prawach autorskich zawartych w Komponentach èrÛd≥owych lub Materia≥ach Przyk≥adowych. IBM dostarcza Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe bez zobowiπzania do wsparcia, W STANIE, W JAKIM SI  ZNAJDUJ• ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (R KOJMI  R”WNIEØ WY£•CZA SI ), WYRAèNYCH LUB DOMNIEMANYCH, A W SZCZEG”LNOåCI GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNK”W PRZYDATNOåCI HANDLOWEJ I PRZYDATNOåCI DO OKREåLONEGO CELU.
+
+L/N:  L-ASAY-BVRJ97
+D/N:  L-ASAY-BVRJ97
+P/N:  L-ASAY-BVRJ97
+
+
