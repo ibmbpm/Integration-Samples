@@ -5,6 +5,8 @@ adapt to your project requirements. The primary targets of this library are IBM 
 and IBM Cloud Pak for Automation but you can also use it with IBM Business Automation Workflow in the traditional WebSphere environment. 
 
 * The `integration.file.Files` class provides methods to read and write text files on the file system.
+* The `integration.jms.JMSMessage` class provides methods to send and receive data from a JMS queue. 
+* The `integration.jms.JMSTopicMessage` class provides a method to publish data on a JMS topic.
 
 The source code is provided in the **src** folder. To use the Java code in your process application or toolkit
 you must create a JAR file, add as a Server File to your application, and create
@@ -36,6 +38,35 @@ To read from files or write data to files you must prepare a Persistent Volume, 
 [Prepare storage for IBM Business Automation Workflow](https://www.ibm.com/support/knowledgecenter/SS8JB4_20.x/com.ibm.wbpm.imuc.container.doc/topics/tsk_bawprep_storage.html)
 in Preparing storage. See also 
 [IBM Cloud Pak for Automation: Preparing storage](https://www.ibm.com/support/knowledgecenter/SSYHZ8_20.0.x/com.ibm.dba.install/op_topics/tsk_bawprep_storage.html). 
+
+
+## JMS Integration Toolkit
+
+The JMS Integration toolkit **JMSIntegration.twx** includes the following External Services that you can use instead
+of the Java classes `teamworks.JMSMessage` and `teamworks.JMSTopicMessage`.
+
+* External Service **JMSMessage**
+* External Service **JMSTopicMessage**
+
+If you use these services instead of the 'teamworks.JMSMessage` and `teamworks.JMSTopicMessage` Java classes
+that are contained in the traditional System Data toolkit you might notice the following difference:
+
+* `initialContext` and `providerUrl` - Now optional input parameters. If null, the default initial context JNDI
+properties are used.
+
+To invoke an operation of an External Service, select the External Service in the implementation
+section of a Service Task, select the appropriate operation, and map the data that is used in the
+service flow to the input and output for the Java method.
+
+
+### Configuring a JMS client in Containers
+
+The `wasJmsClient-2.0` and `wasJmsSecurity-1.0` features are already enabled to act as a secure JMS client in a distributed environment.
+To perform JNDI lookups the `jndi-1.0` feature is also enabled. You still need to configure the required JMS resource: 
+
+1. Define a JMS resource in a Liberty server.xml snippet, by using a custom resource. For more information, see
+[Customizing runtime server properties](https://www.ibm.com/support/knowledgecenter/SSYHZ8_20.0.x/com.ibm.dba.install/op_topics/tsk_post_baw_runtime.html)
+and [Configuring the client for enabling JMS messaging between multiple Liberty servers](https://www.ibm.com/support/knowledgecenter/SSEQTP_liberty/com.ibm.websphere.wlp.doc/ae/twlp_msg_multi_client.html).
 
    
 # License
