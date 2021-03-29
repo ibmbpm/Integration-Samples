@@ -27,7 +27,7 @@ public class JMSMessageBeanInfo extends SimpleBeanInfo {
     private static final Logger logger = Logger.getLogger(CLASS_NAME);
 
     @SuppressWarnings("rawtypes")
-    private Class beanClass = JMSMessage.class;
+    private final Class beanClass = JMSMessage.class;
 
     @Override
     public MethodDescriptor[] getMethodDescriptors() {
@@ -35,7 +35,7 @@ public class JMSMessageBeanInfo extends SimpleBeanInfo {
         try {
             MethodDescriptor descriptorList[] = { putMessageMethodDescriptor(), getMessageMethodDescriptor() };
             return descriptorList;
-        } catch (Throwable e) {
+        } catch (Exception e) {
             logger.logp(Level.SEVERE, CLASS_NAME, METHOD_NAME, "Creating the method descriptor list failed.", e);
             return super.getMethodDescriptors();
         }
