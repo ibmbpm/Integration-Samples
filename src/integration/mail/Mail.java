@@ -927,23 +927,23 @@ public class Mail {
         MimeMessage message = new MimeMessage(session);
         message.setSentDate(new Date());
         message.setFrom(_from);
-        message.addRecipients(Message.RecipientType.TO, (Address[]) _to.toArray());
+        message.addRecipients(Message.RecipientType.TO, _to.toArray(InternetAddress[]::new));
 
         // optional field: _cc
         if (_cc != null && !_cc.isEmpty()) {
-            message.addRecipients(Message.RecipientType.CC, (Address[]) _cc.toArray());
+            message.addRecipients(Message.RecipientType.CC, _cc.toArray(InternetAddress[]::new)));
         }
 
         // optional field: _bcc
         if (_bcc != null && !_bcc.isEmpty()) {
-            message.addRecipients(Message.RecipientType.BCC, (Address[]) _bcc.toArray());
+            message.addRecipients(Message.RecipientType.BCC, _bcc.toArray(InternetAddress[]::new)));
         }
 
         message.setSubject(_subject);
 
         // optional field: _replyTo
         if (_replyTo != null && !_replyTo.isEmpty()) {
-            message.setReplyTo((Address[]) _replyTo.toArray());
+            message.setReplyTo(_replyTo.toArray(InternetAddress[]::new)));
         }
 
         // add attachments
