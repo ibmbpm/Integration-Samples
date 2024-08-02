@@ -174,8 +174,8 @@ public class Mail {
         }
         mail.setSubject(subject);
 
-        if (!CONTENT_TYPE_PLAIN_TEXT.equals(contentType) && !CONTENT_TYPE_HTML.equals(contentType)) {
-            throw new MessagingException("The 'ContentType' field should be '" + CONTENT_TYPE_PLAIN_TEXT + "' or '"
+        if (!contentType.startsWith(CONTENT_TYPE_PLAIN_TEXT) && !contentType.startsWith(CONTENT_TYPE_HTML)) {
+            throw new MessagingException("The 'ContentType' field should start with '" + CONTENT_TYPE_PLAIN_TEXT + "' or '"
                     + CONTENT_TYPE_HTML + "'.");
         }
         mail.setContentType(contentType);
