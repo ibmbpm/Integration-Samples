@@ -62,14 +62,6 @@ public class Mail {
     private static final Logger logger = Logger.getLogger(CLASS_NAME);
 
     /**
-     * Constant for plain text messages contentType.
-     */
-    private static final String CONTENT_TYPE_PLAIN_TEXT = "text/plain";
-    /**
-     * Constant for html text messages contentType.
-     */
-    private static final String CONTENT_TYPE_HTML = "text/html";
-    /**
      * Constant for Low Importance
      */
     private static final String IMPORTANCE_LOW = "low";
@@ -174,9 +166,8 @@ public class Mail {
         }
         mail.setSubject(subject);
 
-        if (!CONTENT_TYPE_PLAIN_TEXT.equals(contentType) && !CONTENT_TYPE_HTML.equals(contentType)) {
-            throw new MessagingException("The 'ContentType' field should be '" + CONTENT_TYPE_PLAIN_TEXT + "' or '"
-                    + CONTENT_TYPE_HTML + "'.");
+        if (contentType == null || contentType.equals("")) {
+        	contentType = "text/html";
         }
         mail.setContentType(contentType);
 
@@ -927,23 +918,23 @@ public class Mail {
         MimeMessage message = new MimeMessage(session);
         message.setSentDate(new Date());
         message.setFrom(_from);
-        message.addRecipients(Message.RecipientType.TO, (Address[]) _to.toArray());
+        message.addRecipients(Message.RecipientType.TO, _to.toArray(new Address[0]));
 
         // optional field: _cc
         if (_cc != null && !_cc.isEmpty()) {
-            message.addRecipients(Message.RecipientType.CC, (Address[]) _cc.toArray());
+            message.addRecipients(Message.RecipientType.CC, _cc.toArray(new Address[0]));
         }
 
         // optional field: _bcc
         if (_bcc != null && !_bcc.isEmpty()) {
-            message.addRecipients(Message.RecipientType.BCC, (Address[]) _bcc.toArray());
+            message.addRecipients(Message.RecipientType.BCC, _bcc.toArray(new Address[0]));
         }
 
         message.setSubject(_subject);
 
         // optional field: _replyTo
         if (_replyTo != null && !_replyTo.isEmpty()) {
-            message.setReplyTo((Address[]) _replyTo.toArray());
+            message.setReplyTo(_replyTo.toArray(new Address[0]));
         }
 
         // add attachments
