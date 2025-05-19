@@ -978,21 +978,4 @@ public class Mail {
 
         logger.exiting(CLASS_NAME, METHOD_NAME);
     }
-    
-    public static void main(String[] args) throws MessagingException {
-        String smtpHost = "na.relay.ibm.com";
-
-        String to = "ahmed.hassan4@ibm.com";
-        String from = "ahmed.hassan4@ibm.com";
-        String replyTo = "ahmed.hassan4@ibm.com";
-        String cc = "";
-        String bcc = "";
-        String subject = "Hello there";
-        //String contentType = "text/html; charset=UTF-8";
-        String contentType = null;
-        String content = "<h1>Hello there, this is an email sent from BAW</h1>";
-        String importance = "";
-        String attachmentFileNames = "";
-        Mail.sendMessage(smtpHost, to, from, replyTo, cc, bcc, subject, contentType, content, importance, attachmentFileNames);
-    }
 }
